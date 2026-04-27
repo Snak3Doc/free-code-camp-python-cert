@@ -1,1 +1,1 @@
-This repor contains the course material i have completed for the freecodecamp.org Python Certification
+This repo contains the course material i have completed for the freecodecamp.org Python Certification
